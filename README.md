@@ -14,3 +14,6 @@ Edit skin.json: Configure your skin settings and file paths in the skin.json fil
 Test Your Skin: Apply the skin to your Steam client and test the changes.
 Contributing
 We welcome contributions! If you have any improvements or new features you'd like to add, feel free to open a pull request.
+
+More Information
+For more detailed documentation and resources, visit steambrew.app.
