@@ -17,8 +17,8 @@
     "name": "name",
     "version": "1.0.0",
     "github": {
-        "owner": "AzusaKis",
-        "repo_name": "https://github.com/EugeneXXXie/basicSteamSkinTemplate.git"
+        "owner": "yourGithubID",
+        "repo_name": "none"
     },
     "discord_support": {
         "inviteCodeExcludingLink": "None"
